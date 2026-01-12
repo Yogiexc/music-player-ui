@@ -26,12 +26,15 @@ No frameworks. No libraries. No build tools. Just clean, vanilla code.
 <div align="center">
 
 ### 🌙 Dark Mode
-![Dark Mode Preview](https://via.placeholder.com/800x500/1a1a2e/ffffff?text=Dark+Mode+Preview)
+![Dark Mode Preview](media/dark.png)
 
 ### ☀️ Light Mode
-![Light Mode Preview](https://via.placeholder.com/800x500/fce4ec/1a1a2e?text=Light+Mode+Preview)
+![Light Mode Preview](media/light.png)
 
+### 🎭 Gif preview
+![Light Mode Preview](media/preview.gif)
 </div>
+
 
 ---
 
@@ -491,24 +494,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogiexc)
 
 **Built with ☕ and attention to detail**
 
 If this project helped you learn something new, consider giving it a ⭐!
-
----
-
-### 📈 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/music-player-ui?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/music-player-ui?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/music-player-ui?style=social)
-
-</div>
 
 ---
 
